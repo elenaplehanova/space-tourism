@@ -6,3 +6,8 @@ Frontend приложение - сайт для космических путе�
 This is beautiful site from course https://scrimba.com/learn/spacetravel
 <br>
 Doing this course I have been learned how make accessible and responsive design.
+
+# Tech stack / Стек технологий
+* Vanilla JS
+* CSS
+* HTML
